@@ -1,1 +1,1 @@
-# Technical-University-Darmstadt-clone
+# Technical-University-Darmstadt-clone built with Html and Css only. Fully responsive
